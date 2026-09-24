@@ -3,10 +3,6 @@ class Solution {
       int res= Math.abs(nums[0]);
       int min = nums[0];
       int max= nums[0];
-      if(nums.length==1)
-      {
-        return Math.abs(nums[0]);
-      }
       for(int i =1;i<nums.length;i++){
         max=Math.max(max+nums[i],nums[i]);
         min=Math.min(min+nums[i],nums[i]);
