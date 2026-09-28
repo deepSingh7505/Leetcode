@@ -74,17 +74,12 @@ class MyLinkedList {
             if(temp==null)return;
             temp=temp.next;
         }
-            if(temp.next!=null&&temp.next.next!=null){
-                temp.next=temp.next.next;
+           if (temp == null || temp.next == null) return;
+           temp.next = temp.next.next;
             }
-            else{
-                if(temp.next!=null){
-                    temp.next=null;
-                }
-            }
-           
-        }
-    }
+         
+}
+
 
 
 /**
