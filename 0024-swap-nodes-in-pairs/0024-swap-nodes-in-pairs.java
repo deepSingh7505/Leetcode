@@ -14,16 +14,16 @@
     swap (ListNode head){
         this.myhead = head;
     }
-    ListNode swapfirsttwo(){
-       return swapfirsttwo(myhead);
+    ListNode swaptwo(){
+       return swaptwo(myhead);
     }
-   private ListNode swapfirsttwo(ListNode head){
+   private ListNode swaptwo(ListNode head){
 
     if(head==null || head.next==null)
         return head;
     
     ListNode second=head.next;
-    head.next=swapfirsttwo(second.next);
+    head.next=swaptwo(second.next);
     second.next=head;
     return second;
 }
@@ -31,6 +31,6 @@
 class Solution {
     public ListNode swapPairs(ListNode head) {
         swap sc=new swap(head);
-        return sc.swapfirsttwo();
+        return sc.swaptwo();
     }
 }
