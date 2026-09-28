@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/deepSingh7505/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/deepSingh7505/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0707-design-linked-list](https://github.com/deepSingh7505/Leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/deepSingh7505/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/deepSingh7505/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/deepSingh7505/Leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
