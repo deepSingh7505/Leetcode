@@ -12,14 +12,11 @@ class Solution {
         char []res=new char[s.length()];
         for(int i=0;i<s.length();i++){
             char c=s.charAt(i);
-            if(st.empty()){
+            if(st.empty()||st.peek().ch!=s.charAt(i)){
                 st.push(new pair(c,1));
                 continue;
             }
-            if(st.peek().ch!=s.charAt(i)){
-                st.push(new pair(c,1));
-                continue;
-            }
+           
             if(st.peek().num<k-1){
                   pair change = st.peek();
                   st.pop();
