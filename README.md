@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/deepSingh7505/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0409-longest-palindrome](https://github.com/deepSingh7505/Leetcode/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/deepSingh7505/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deepSingh7505/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/deepSingh7505/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/deepSingh7505/Leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/deepSingh7505/Leetcode/tree/master/0344-reverse-string) |
+| [0409-longest-palindrome](https://github.com/deepSingh7505/Leetcode/tree/master/0409-longest-palindrome) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/deepSingh7505/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/deepSingh7505/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/deepSingh7505/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/deepSingh7505/Leetcode/tree/master/0739-daily-temperatures) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/deepSingh7505/Leetcode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
